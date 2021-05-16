@@ -1,11 +1,12 @@
-# Expanding Cards
+# Projects Portfolio
 
-TITLE - Expanding Cards
+TITLE - Projects Portfolio
 
-About - Expanding card widget
+About - Webpage created in JavaScript, showing my Front-end developer work.
 
 TECHNOLOGIES USED:
-- HTML5 
+
+- HTML5
 - Google Fonts
 - CSS3 with Sass
 - JavaScript
