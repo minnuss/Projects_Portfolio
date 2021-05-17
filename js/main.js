@@ -99,6 +99,11 @@ const webApps = [
         demoPage: 'https://minnuss.github.io/Custom_Video_Player/'
     },
     {
+        title: 'Custom Music Player',
+        githubUrl: 'https://github.com/minnuss/Music_player',
+        demoPage: 'https://minnuss.github.io/Music_player/'
+    },
+    {
         title: 'Movie seat booking app',
         githubUrl: 'https://github.com/minnuss/Movie_seat_booking_app',
         demoPage: 'https://minnuss.github.io/Movie_seat_booking_app/'
