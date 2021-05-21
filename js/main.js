@@ -139,6 +139,11 @@ const webApps = [
         demoPage: 'https://minnuss.github.io/42-user_filter_input/'
     },
     {
+        title: 'Infinite Scroll Posts',
+        githubUrl: 'https://github.com/minnuss/Infinite_Scroll_Posts',
+        demoPage: 'https://minnuss.github.io/Infinite_Scroll_Posts/'
+    },
+    {
         title: 'Github Profiles Search',
         githubUrl: 'https://github.com/minnuss/28-github-profiles-search',
         demoPage: 'https://minnuss.github.io/28-github-profiles-search/'
