@@ -94,6 +94,11 @@ const webApps = [
         demoPage: 'https://minnuss.github.io/Exchange_Rate_Calculator/'
     },
     {
+        title: 'Typing test',
+        githubUrl: 'https://github.com/minnuss/Typing_test',
+        demoPage: 'https://minnuss.github.io/Typing_test/index.html'
+    },
+    {
         title: 'Custom Video Player',
         githubUrl: 'https://github.com/minnuss/Custom_Video_Player',
         demoPage: 'https://minnuss.github.io/Custom_Video_Player/'
