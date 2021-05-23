@@ -109,6 +109,11 @@ const webApps = [
         demoPage: 'https://minnuss.github.io/Music_player/'
     },
     {
+        title: 'Voice Text Reader',
+        githubUrl: 'https://github.com/minnuss/Voice_Text_Reader',
+        demoPage: 'https://minnuss.github.io/Voice_Text_Reader/'
+    },
+    {
         title: 'Movie seat booking app',
         githubUrl: 'https://github.com/minnuss/Movie_seat_booking_app',
         demoPage: 'https://minnuss.github.io/Movie_seat_booking_app/'
