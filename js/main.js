@@ -125,8 +125,8 @@ const webApps = [
     },
     {
         title: 'Todo List Basic',
-        githubUrl: 'https://github.com/minnuss/ToDoList',
-        demoPage: 'https://minnuss.github.io/ToDoList/'
+        githubUrl: 'https://github.com/minnuss/ToDo_List_with_Local_Storage',
+        demoPage: 'https://minnuss.github.io/ToDo_List_with_Local_Storage/'
     },
     {
         title: 'Notes App',
