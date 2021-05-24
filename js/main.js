@@ -139,6 +139,11 @@ const webApps = [
         demoPage: 'https://minnuss.github.io/33-notes-app/'
     },
     {
+        title: 'Memory Cards',
+        githubUrl: 'https://github.com/minnuss/Memory_Cards',
+        demoPage: 'https://minnuss.github.io/Memory_Cards/'
+    },
+    {
         title: 'Quiz App',
         githubUrl: 'https://github.com/minnuss/46-quiz_app',
         demoPage: 'https://minnuss.github.io/46-quiz_app/'
