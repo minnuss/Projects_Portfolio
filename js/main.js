@@ -159,6 +159,11 @@ const webApps = [
         demoPage: 'https://minnuss.github.io/Infinite_Scroll_Posts/'
     },
     {
+        title: 'Lyrics Search',
+        githubUrl: 'https://github.com/minnuss/Lyrics_Search',
+        demoPage: 'https://minnuss.github.io/Lyrics_Search/'
+    },
+    {
         title: 'Github Profiles Search',
         githubUrl: 'https://github.com/minnuss/28-github-profiles-search',
         demoPage: 'https://minnuss.github.io/28-github-profiles-search/'
