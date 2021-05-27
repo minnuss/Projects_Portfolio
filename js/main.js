@@ -184,6 +184,11 @@ const webApps = [
         demoPage: 'https://minnuss.github.io/22-draw-app/'
     },
     {
+        title: 'Breath Meditation',
+        githubUrl: 'https://github.com/minnuss/Breath_Meditation',
+        demoPage: 'https://minnuss.github.io/Breath_Meditation/'
+    },
+    {
         title: 'Analog clock',
         githubUrl: 'https://github.com/minnuss/19-analog-clock',
         demoPage: 'https://minnuss.github.io/19-analog-clock/'
