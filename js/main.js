@@ -456,6 +456,11 @@ const webGames = [
         demoPage: 'https://minnuss.github.io/Hangman_game/'
     },
     {
+        title: 'Break Brick game',
+        githubUrl: 'https://github.com/minnuss/Break_Brick_game',
+        demoPage: 'https://minnuss.github.io/Break_Brick_game/'
+    },
+    {
         title: 'Catch insect game',
         githubUrl: 'https://github.com/minnuss/50-catch_insect_game',
         demoPage: 'https://minnuss.github.io/50-catch_insect_game/'
