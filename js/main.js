@@ -239,6 +239,11 @@ const webApps = [
         demoPage: 'https://minnuss.github.io/RomanNumberConverter/'
     },
     {
+        title: 'New Year Countdown',
+        githubUrl: 'https://github.com/minnuss/New_Year_Countdown',
+        demoPage: 'https://minnuss.github.io/New_Year_Countdown/'
+    },
+    {
         title: 'Count Down Timer',
         githubUrl: 'https://github.com/minnuss/CountDownTimer',
         demoPage: 'https://minnuss.github.io/CountDownTimer/'
