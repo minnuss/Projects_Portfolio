@@ -355,7 +355,7 @@ const webWidgets = [
         demoPage: 'https://minnuss.github.io/24-content-placeholder/'
     },
     {
-        title: 'List drag & drop',
+        title: 'List drag and drop',
         githubUrl: 'https://github.com/minnuss/List_drag_-_drop',
         demoPage: 'https://minnuss.github.io/List_drag_-_drop/'
     },
