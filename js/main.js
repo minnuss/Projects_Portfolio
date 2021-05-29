@@ -471,6 +471,11 @@ const webGames = [
         demoPage: 'https://minnuss.github.io/Break_Brick_game/'
     },
     {
+        title: 'Guess the number',
+        githubUrl: 'https://github.com/minnuss/Guess_the_number',
+        demoPage: 'https://minnuss.github.io/Guess_the_number/'
+    },
+    {
         title: 'Catch insect game',
         githubUrl: 'https://github.com/minnuss/50-catch_insect_game',
         demoPage: 'https://minnuss.github.io/50-catch_insect_game/'
