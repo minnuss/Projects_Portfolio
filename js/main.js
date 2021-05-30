@@ -59,6 +59,11 @@ const webApps = [
         demoPage: 'https://minnuss.github.io/Serbia_Covid_stats/'
     },
     {
+        title: 'Weather App',
+        githubUrl: 'https://github.com/minnuss/Weather_App/tree/master',
+        demoPage: 'https://minnuss.github.io/Weather_App/'
+    },
+    {
         title: 'Password Generator',
         githubUrl: 'https://github.com/minnuss/31-password-generator',
         demoPage: 'https://minnuss.github.io/31-password-generator/index.html'
