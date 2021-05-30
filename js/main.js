@@ -324,6 +324,11 @@ const webWidgets = [
         demoPage: 'https://minnuss.github.io/18-background-slider/'
     },
     {
+        title: 'Image Slider',
+        githubUrl: 'https://github.com/minnuss/Image_Slider',
+        demoPage: 'https://minnuss.github.io/Image_Slider/'
+    },
+    {
         title: 'Image Carousel',
         githubUrl: 'https://github.com/minnuss/35-image-carousel',
         demoPage: 'https://minnuss.github.io/35-image-carousel/'
