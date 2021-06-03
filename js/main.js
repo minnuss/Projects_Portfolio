@@ -10,7 +10,12 @@ const webSites = [
     {
         title: 'Ponksound',
         githubUrl: 'https://github.com/minnuss/ponksound',
-        demoPage: 'https://minnuss.github.io/ponksound/'
+        demoPage: 'https://www.ponksound.rs/index.html'
+    },
+    {
+        title: 'Technotool',
+        githubUrl: 'https://github.com/minnuss/TechnoTool',
+        demoPage: 'https://minnuss.github.io/TechnoTool/'
     },
     {
         title: 'Koliko',
