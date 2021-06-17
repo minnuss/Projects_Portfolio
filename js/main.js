@@ -10,7 +10,7 @@ const webSites = [
     {
         title: 'Ponksound',
         githubUrl: 'https://github.com/minnuss/ponksound',
-        demoPage: 'https://www.ponksound.rs/index.html'
+        demoPage: 'https://www.ponksound.rs/'
     },
     {
         title: 'Technotool',
@@ -20,7 +20,7 @@ const webSites = [
     {
         title: 'Koliko',
         githubUrl: 'https://github.com/minnuss/koliko',
-        demoPage: 'https://minnuss.github.io/koliko/'
+        demoPage: 'https://koliko.rs/'
     },
     {
         title: 'Gym',
