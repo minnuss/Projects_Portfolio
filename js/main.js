@@ -1,4 +1,5 @@
 const cardBoxWebSites = document.querySelector('.websites .card-box')
+const cardBoxReactApp = document.querySelector('.react-apps .card-box')
 const cardBoxApp = document.querySelector('.apps .card-box')
 const cardBoxWebWidgets = document.querySelector('.web .card-box')
 const cardBoxGames = document.querySelector('.games .card-box')
@@ -55,6 +56,17 @@ const webSites = [
 ]
 
 createAppCards(webSites, cardBoxWebSites, 'websites')
+
+// REACT APPLICATION SECTION
+const webReactApps = [
+    {
+        title: 'Countdown Timer',
+        githubUrl: 'https://github.com/minnuss/01-Countdown-Timer',
+        demoPage: 'https://minnuss.github.io/01-Countdown-Timer/'
+    }
+]
+
+createAppCards(webReactApps, cardBoxReactApp, 'react-apps')
 
 // APPLICATION SECTION
 const webApps = [
