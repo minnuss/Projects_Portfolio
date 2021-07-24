@@ -63,6 +63,11 @@ const webReactApps = [
         title: 'Countdown Timer',
         githubUrl: 'https://github.com/minnuss/01-Countdown-Timer',
         demoPage: 'https://minnuss.github.io/01-Countdown-Timer/'
+    },
+    {
+        title: 'Markdown Editor',
+        githubUrl: 'https://github.com/minnuss/02-Markdown-Editor',
+        demoPage: 'https://minnuss.github.io/02-Markdown-Editor/'
     }
 ]
 
