@@ -68,6 +68,11 @@ const webReactApps = [
         title: 'Markdown Editor',
         githubUrl: 'https://github.com/minnuss/02-Markdown-Editor',
         demoPage: 'https://minnuss.github.io/02-Markdown-Editor/'
+    },
+    {
+        title: 'Tab Navigation',
+        githubUrl: 'https://github.com/minnuss/03-Tab-Navigation/tree/master',
+        demoPage: 'https://minnuss.github.io/03-Tab-Navigation/'
     }
 ]
 
