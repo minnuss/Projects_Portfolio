@@ -73,6 +73,11 @@ const webReactApps = [
         title: 'Tab Navigation',
         githubUrl: 'https://github.com/minnuss/03-Tab-Navigation/tree/master',
         demoPage: 'https://minnuss.github.io/03-Tab-Navigation/'
+    },
+    {
+        title: 'Rock, Paper, Scissors',
+        githubUrl: 'https://github.com/minnuss/04-Rock-Paper-Scissors/tree/master',
+        demoPage: 'https://minnuss.github.io/04-Rock-Paper-Scissors/'
     }
 ]
 
