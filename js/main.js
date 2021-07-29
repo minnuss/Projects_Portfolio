@@ -78,6 +78,11 @@ const webReactApps = [
         title: 'Rock, Paper, Scissors',
         githubUrl: 'https://github.com/minnuss/04-Rock-Paper-Scissors/tree/master',
         demoPage: 'https://minnuss.github.io/04-Rock-Paper-Scissors/'
+    },
+    {
+        title: 'Random Quote Generator',
+        githubUrl: 'https://github.com/minnuss/Random-Quote-Generator-REACT/blob/master/README.md',
+        demoPage: 'https://minnuss.github.io/Random-Quote-Generator-REACT/'
     }
 ]
 
