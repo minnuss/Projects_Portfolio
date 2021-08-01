@@ -83,7 +83,18 @@ const webReactApps = [
         title: 'Random Quote Generator',
         githubUrl: 'https://github.com/minnuss/Random-Quote-Generator-REACT/blob/master/README.md',
         demoPage: 'https://minnuss.github.io/Random-Quote-Generator-REACT/'
+    },
+    {
+        title: 'Image Carousel-Slide',
+        githubUrl: 'https://github.com/minnuss/Image-Carousel---REACT/tree/master',
+        demoPage: 'https://minnuss.github.io/Image-Carousel---REACT/'
+    },
+    {
+        title: 'Image Carousel',
+        githubUrl: 'https://github.com/minnuss/Image-Slider-Carousel-REACT/tree/master',
+        demoPage: 'https://minnuss.github.io/Image-Slider-Carousel-REACT/'
     }
+
 ]
 
 createAppCards(webReactApps, cardBoxReactApp, 'react-apps')
