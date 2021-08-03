@@ -60,6 +60,11 @@ createAppCards(webSites, cardBoxWebSites, 'websites')
 // REACT APPLICATION SECTION
 const webReactApps = [
     {
+        title: 'Weather App',
+        githubUrl: 'https://github.com/minnuss/Weather-App-React/tree/master',
+        demoPage: 'https://minnuss.github.io/Weather-App-React/'
+    },
+    {
         title: 'Countdown Timer',
         githubUrl: 'https://github.com/minnuss/01-Countdown-Timer',
         demoPage: 'https://minnuss.github.io/01-Countdown-Timer/'
