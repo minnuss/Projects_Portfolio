@@ -65,6 +65,11 @@ const webReactApps = [
         demoPage: 'https://minnuss.github.io/Weather-App-React/'
     },
     {
+        title: 'Infinite Image Gallery',
+        githubUrl: 'https://github.com/minnuss/Infinite-Image-Gallery/tree/master',
+        demoPage: 'https://minnuss.github.io/Infinite-Image-Gallery/'
+    },
+    {
         title: 'Countdown Timer',
         githubUrl: 'https://github.com/minnuss/01-Countdown-Timer',
         demoPage: 'https://minnuss.github.io/01-Countdown-Timer/'
