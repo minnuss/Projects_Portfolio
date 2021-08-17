@@ -16,7 +16,7 @@ const webSites = [
     {
         title: 'Technotool',
         githubUrl: 'https://github.com/minnuss/TechnoTool',
-        demoPage: 'https://minnuss.github.io/TechnoTool/'
+        demoPage: 'https://technotool.rs/'
     },
     {
         title: 'Koliko',
