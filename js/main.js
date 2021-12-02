@@ -10,9 +10,19 @@ const cardBoxGames = document.querySelector('.games .card-box')
 // WEBSITES SECTION
 const webSites = [
     {
+        title: 'Ponksound-WP',
+        githubUrl: 'https://ponksound.nusmi.bgw.rs/',
+        demoPage: 'https://ponksound.nusmi.bgw.rs/'
+    },
+    {
         title: 'Ponksound',
         githubUrl: 'https://github.com/minnuss/ponksound',
         demoPage: 'https://www.ponksound.rs/'
+    },
+    {
+        title: 'Technotool-Woocommerce',
+        githubUrl: 'https://nusmi.bgw.rs/',
+        demoPage: 'https://nusmi.bgw.rs/'
     },
     {
         title: 'Technotool',
@@ -20,7 +30,7 @@ const webSites = [
         demoPage: 'https://technotool.rs/'
     },
     {
-        title: 'Koliko',
+        title: 'Koliko-WP',
         githubUrl: 'https://github.com/minnuss/koliko',
         demoPage: 'https://koliko.rs/'
     },
