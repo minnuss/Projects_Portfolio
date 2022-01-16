@@ -152,16 +152,16 @@ const webApps = [
     //     githubUrl: 'https://github.com/minnuss/Meal_finder',
     //     demoPage: 'https://minnuss.github.io/Meal_finder/'
     // },
-    // {
-    //     title: 'BMI_Calculator',
-    //     githubUrl: 'https://github.com/minnuss/BMI_Calculator',
-    //     demoPage: 'https://minnuss.github.io/BMI_Calculator/'
-    // },
-    // {
-    //     title: 'Password Generator',
-    //     githubUrl: 'https://github.com/minnuss/31-password-generator',
-    //     demoPage: 'https://minnuss.github.io/31-password-generator/index.html'
-    // },
+    {
+        title: 'BMI_Calculator',
+        githubUrl: 'https://github.com/minnuss/BMI_Calculator',
+        demoPage: 'https://minnuss.github.io/BMI_Calculator/'
+    },
+    {
+        title: 'Password Generator',
+        githubUrl: 'https://github.com/minnuss/31-password-generator',
+        demoPage: 'https://minnuss.github.io/31-password-generator/index.html'
+    },
     // {
     //     title: 'DOM Array Methods',
     //     githubUrl: 'https://github.com/minnuss/DOM_Array_Methods',
@@ -353,21 +353,21 @@ const webWidgets = [
         demoPage: 'https://minnuss.github.io/HambMenu2/'
     },
 
-    // {
-    //     title: 'Menu slider with modal',
-    //     githubUrl: 'https://github.com/minnuss/Menu_slider_with_modal',
-    //     demoPage: 'https://minnuss.github.io/Menu_slider_with_modal/'
-    // },
-    // {
-    //     title: 'Testimonial switcher',
-    //     githubUrl: 'https://github.com/minnuss/47-testimonial_switcher',
-    //     demoPage: 'https://minnuss.github.io/47-testimonial_switcher/'
-    // },
-    // {
-    //     title: 'Netflix navigation',
-    //     githubUrl: 'https://github.com/minnuss/45-netflix_navigation',
-    //     demoPage: 'https://minnuss.github.io/45-netflix_navigation/'
-    // },
+    {
+        title: 'Menu slider with modal',
+        githubUrl: 'https://github.com/minnuss/Menu_slider_with_modal',
+        demoPage: 'https://minnuss.github.io/Menu_slider_with_modal/'
+    },
+    {
+        title: 'Testimonial switcher',
+        githubUrl: 'https://github.com/minnuss/47-testimonial_switcher',
+        demoPage: 'https://minnuss.github.io/47-testimonial_switcher/'
+    },
+    {
+        title: 'Netflix navigation',
+        githubUrl: 'https://github.com/minnuss/45-netflix_navigation',
+        demoPage: 'https://minnuss.github.io/45-netflix_navigation/'
+    },
     // {
     //     title: 'Custom Range slider',
     //     githubUrl: 'https://github.com/minnuss/44-range_slider',
