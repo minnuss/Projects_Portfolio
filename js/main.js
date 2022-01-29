@@ -6,6 +6,7 @@ const cardBoxWebWidgets = document.querySelector('.web .card-box')
 const cardBoxGames = document.querySelector('.games .card-box')
 const input = document.getElementById('search')
 
+// SEARCH INPUT
 input.addEventListener('input', (e) => {
     let value = e.target.value.toLowerCase()
     let cards = document.querySelectorAll('.card')
