@@ -4,8 +4,21 @@ const cardBoxReactApp = document.querySelector('.react-apps .card-box')
 const cardBoxApp = document.querySelector('.apps .card-box')
 const cardBoxWebWidgets = document.querySelector('.web .card-box')
 const cardBoxGames = document.querySelector('.games .card-box')
+const input = document.getElementById('search')
 
-
+input.addEventListener('input', (e) => {
+    let value = e.target.value.toLowerCase()
+    let cards = document.querySelectorAll('.card')
+    cards.forEach(card => {
+        let cardInnerTextValues = card.innerText.toLowerCase()
+        // console.log(card.innerText)
+        if (cardInnerTextValues.includes(value)) {
+            card.style.display = 'block'
+        } else {
+            card.style.display = 'none'
+        }
+    })
+})
 
 // WEBSITES SECTION
 const webSites = [

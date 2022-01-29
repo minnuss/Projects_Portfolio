@@ -35,6 +35,41 @@ body .projects-container {
   text-align: center;
 }
 
+body .projects-container .search__input {
+  margin-top: 20px;
+  max-width: 400px;
+  padding: 12px 30px;
+  font-size: 2rem;
+  background-color: transparent;
+  transition: transform 250ms ease-in-out;
+  line-height: 18px;
+  color: var(--color-primary);
+  background-color: transparent;
+  background-repeat: no-repeat;
+  background-size: 18px 18px;
+  background-position: 95% center;
+  border-radius: 50px;
+  border: 1px solid var(--color-primary);
+  transition: all 250ms ease-in-out;
+  backface-visibility: hidden;
+  transform-style: preserve-3d;
+}
+
+body .projects-container .search__input::placeholder {
+  color: color(var(--color-primary) a(0.8));
+  text-transform: capitalize;
+  letter-spacing: 1.5px;
+}
+
+body .projects-container .search__input:hover, body .projects-container .search__input:focus {
+  padding: 12px 0;
+  outline: 0;
+  border: 1px solid transparent;
+  border-bottom: 1px solid var(--color-primary);
+  border-radius: 0;
+  background-position: 100% center;
+}
+
 body .projects-container .code-container {
   display: flex;
   flex-direction: column;
